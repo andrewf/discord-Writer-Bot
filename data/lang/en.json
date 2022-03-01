@@ -468,7 +468,7 @@
     "sprint:purged:none": "No users to purge from sprint notifications",
 
     "sprint:err:alreadyexists": "There is already a sprint running on this server. Please wait until it has finished before creating a new one.",
-    "sprint:err:noexists": "There is no active sprint on this server. Maybe you should start one? `sprint start`",
+    "sprint:err:noexists": "There is no active sprint on this server. Maybe you should start one? `sprint for`",
     "sprint:err:cannotcancel": "Only the sprint creator or the server moderators can cancel this sprint",
     "sprint:err:cannotend": "Only the sprint creator or the server moderators can end this sprint",
     "sprint:err:purgeperms": "Only moderators can purge users from sprint notifications!",
