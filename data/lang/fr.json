@@ -442,7 +442,7 @@
 
     "sprint:err:cmd": "commande de sprint non valide… Lancez `!help sprint` pour plus d’informations sur la commande sprint.",
     "sprint:err:alreadyexists": "il y a déjà un sprint en cours sur ce serveur ! Veuillez attendre la fin du sprint actuel avant de créer un nouveau.",
-    "sprint:err:noexists": "il n’y a pas de sprint en cours sur ce serveur. Peut-être voulez-vous en créer un ? `!sprint start`.",
+    "sprint:err:noexists": "il n’y a pas de sprint en cours sur ce serveur. Peut-être voulez-vous en créer un ? `/sprint for`.",
     "sprint:err:cannotcancel": "seulement le·a créateur·ice du sprint ou un·e modérateur·ice du serveur peut annuler ce sprint.",
     "sprint:err:cannotend": "seulement le·a créateur·ice du sprint ou un·e modérateur·ice du serveur peut conclure ce sprint.",
     "sprint:err:unknown": "",
